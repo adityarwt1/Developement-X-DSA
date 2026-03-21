@@ -23,3 +23,4 @@ const trappingRainWater = (heights:number[]):number => {
 }
 
 console.log(trappingRainWater([0,1,0,2,1,0,1,3,2,1,2,1]))
+// simple one line highest point for sum the value left ke highest point se sum nikalana hai.
